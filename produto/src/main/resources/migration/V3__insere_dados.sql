@@ -1,0 +1,1 @@
+insert into usuarios values(1,'Toninho Araujo','$2a$12$mkFn6sWeefkLtkSiNdVqp.YuKjv9vnk5okEia0R6EtE.6vQwlK.bu','ADMIN');
