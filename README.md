@@ -13,7 +13,7 @@
 
 ##  💻 Repositorio gitHub
 
-- <a href="https://github.com/alex24-dev/api"> GitHub</a>
+- <a href="https://github.com/alex24-dev/microsservico-produtos"> GitHub</a>
 - Para baixar esse projeto no computador é necessário ter o git instalado
 - usar o comado: git clone + o endereço do repositório
 
@@ -21,7 +21,7 @@
 - ☕ JAVA 17
 - Padrão de Projeto: DTO(Data Transfer Object)
 - Paginação e Ordenação
-- SPRING BOOT 3.2.5
+- SPRING BOOT 3.2.7
 - Spring Security
 - Bean Validation
 - Maven
