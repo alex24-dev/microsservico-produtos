@@ -39,7 +39,7 @@
 
 ## ✍ Funcionalidades do Projeto
 
--Service Discovery
+- Service Discovery 
 - Cadastrar produtos
 - Cadastrar usuários
 
