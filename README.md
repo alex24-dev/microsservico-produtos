@@ -19,10 +19,12 @@
 
 ## Tecnologias usadas
 - ☕ JAVA 17
-- Padrão de Projeto: DTO(Data Transfer Object)
-- Paginação e Ordenação
-- SPRING BOOT 3.2.7
+- SPRING BOOT 3.2.5
 - Spring Security
+- Spring Cloud(Eureka Netflix)
+- Padrão de Projeto: DTO(Data Transfer Object)
+- Inversão de Controle/ Injeção de dependência
+- Paginação e Ordenação
 - Bean Validation
 - Maven
 - Migration
@@ -33,9 +35,11 @@
 - Teste Unitário
 - Mocks
 - Postman
+- Git/Github
 
 ## ✍ Funcionalidades do Projeto
 
+-Service Discovery
 - Cadastrar produtos
 - Cadastrar usuários
 
