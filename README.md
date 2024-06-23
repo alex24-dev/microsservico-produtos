@@ -25,6 +25,8 @@
 - Spring Cloud(Eureka Netflix)
 - Padrão de Projeto: DTO(Data Transfer Object)
 - Inversão de Controle/ Injeção de dependência
+- Service Discovery
+- Gateway
 - Paginação e Ordenação
 - Bean Validation
 - Tratamento de Exceções
